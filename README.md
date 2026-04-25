@@ -15,7 +15,7 @@
 ## Project Overview
 Hack Or Myth is a mobile quiz application developed as part of the IMAD5112 subject. The app was built using **Kotlin** in **Android Studio**. Its primary purpose is to provide an interactive way for users to test their knowledge of everyday life hacks and myths.  
 
-The app presents statements to the user, who must decide whether each statement is a **Hack** (true/useful tip) or a **Myth** (false/misconception). At the end of the quiz, the user receives a score and can review all flashcards with explanations.
+The app presents statements to the user, who must decide whether each statement is a **Hack** or a **Myth**. At the end of the quiz, the user receives a score and can review all flashcards with explanations.
 
 This project was designed to meet assignment requirements, including:
 - Creating a functional mobile app in Kotlin.
